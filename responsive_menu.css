@@ -1,0 +1,155 @@
+
+@media all and (max-width: 1000px) {
+    * {
+        box-sizing: border-box;
+    }
+    .header-list {
+       display: none;
+    }
+
+    .menu-icon {
+        display: block;
+        margin-top: 28px;
+        margin-right: 40px;
+    }
+
+    .top-wrapper h1 {
+        display: none;
+    }
+
+    .top-wrapper h2 {
+        display: none;
+    }
+
+    .top-wrapper h3 {
+        font-size: 36px;
+        margin-bottom: 150px;
+        margin-top: 200px;
+    }
+
+    .menu-wrapper {
+        height: 2300px;
+        width: 100%;
+    }
+
+    .txt-contents {
+        padding: 0 25px;
+        text-align: center;
+    }
+
+    .mulai{
+        margin-top: 20px;
+        font-size: 24px;
+    }
+    .list-link{
+        font-size: 10px;
+    }
+    .list {
+        margin-top: 3px;
+    }
+
+    .logo {
+        padding-left: 5px;
+        padding-top: 10px;
+        padding-right: 5px;
+    }
+
+    .fb {
+        height: 40px;
+        width: 40px;
+    }
+    .ig {
+        height: 40px;
+        width: 40px;
+    }
+    .tweet {
+        height: 40px;
+        width: 40px;
+    }
+}
+
+@media all and (max-width: 678px) {
+    * {
+        box-sizing: border-box;
+    }
+
+    .header-logo h1 {
+        font-size: 20px;
+    }
+
+    .header-list {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block;
+        margin-top: 30px;
+        margin-right: 46px;
+    }
+
+    .mulai{
+        margin-top: 30px;
+        font-size: 20px;
+    }
+
+    .mulai:hover{
+        font-size: 19px;
+    }
+
+    .top-wrapper h1{
+        display: none;
+    }
+
+    .top-wrapper h2{
+        display: none;
+    }
+
+    .top-wrapper h3{
+        font-size: 42px;
+        margin-bottom: 150px;
+        margin-top: 250px;
+    }
+    .top-wrapper p{
+        font-size: 24px;
+    }
+
+    .menu-wrapper {
+        height: 3300px;
+        width: 100%;
+    }
+
+    .txt-contents {
+        padding: 0 25px;
+        font-size: 22px;
+    }
+
+    .medsos-title{
+        font-size: 13px;
+    }
+    .list-link{
+        font-size: 10px;
+        font-weight: bolder;
+    }
+    .list {
+        margin-top: 3px;
+    }
+
+    .logo {
+        padding-left: 5px;
+        padding-top: 5px;
+        padding-right: 5px;
+    }
+
+    .fb {
+        height: 40px;
+        width: 40px;
+    }
+    .ig {
+        height: 40px;
+        width: 40px;
+    }
+    .tweet {
+        height: 40px;
+        width: 40px;
+    }
+}
